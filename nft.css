@@ -93,9 +93,9 @@ hr{
     height: 2rem;
 }
 .profile_pic{
-    width: 1.8rem;
+    width: 2rem;
     border: 1.5px solid var(--white);
-    border-radius: 300px;
+    border-radius: 350px;
     margin-right: .8rem;
 }
 .credit{
