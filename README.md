@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/screenshot_nft.jpg)
+![Screenshot](./images/screenshot_nft.png)
 
 
 ### Links
